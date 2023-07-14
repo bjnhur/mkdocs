@@ -16,6 +16,7 @@ repo_url: https://github.com/bjnhur/mkdocs
 
 theme:
   name: 'material'
+  language: en  
   custom_dir: material/.overrides
   features:
     - announce.dismiss
@@ -67,10 +68,6 @@ plugins:
       separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify:
       minify_html: true
-
-# Hooks
-# hooks:
-#   - material/.overrides/hooks/translations.py
 
 # Customization
 extra:
