@@ -47,3 +47,13 @@ nav:
     - Installation: getting-started.md
 
 ```
+
+# 리소스
+
+## 무료 일러스트
+
+`mkdocs\docs\assets\images` 안에 이미지 변경을 원하면 아래 사이트들에서 다운로드 하자.
+
+- https://themeisle.com/illustrations/
+- https://www.manypixels.co/gallery
+- 
