@@ -10,7 +10,7 @@ site_description: >-
 # Repository
 repo_name: bjnhur/mkdocs
 repo_url: https://github.com/bjnhur/mkdocs
-
+edit_uri: blob/main/docs
 # extra_css:
 #   - stylesheets/extra.css
 
