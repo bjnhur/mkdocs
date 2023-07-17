@@ -1,3 +1,5 @@
+#####################################
+# 꼭 fork 후에 변경해야 하는 변수들
 
 # Project information
 site_name: 내부 기술 문서 사이트
@@ -11,9 +13,10 @@ site_description: >-
 repo_name: bjnhur/mkdocs
 repo_url: https://github.com/bjnhur/mkdocs
 edit_uri: blob/main/docs
+#####################################
+
 # extra_css:
 #   - stylesheets/extra.css
-
 theme:
   name: 'material'
   language: en  
@@ -202,9 +205,9 @@ nav:
     - Tooltips: reference/tooltips.md
   - Insiders:
     - insiders/index.md
-    - Getting started:
-      - Installation: insiders/getting-started.md
-      - Changelog: insiders/changelog.md
+    # - Getting started:
+    - Installation: insiders/getting-started.md
+    - Changelog: insiders/changelog.md
   - Blog:
     - blog/index.md
     - 2022:
